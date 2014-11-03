@@ -1,0 +1,22 @@
+{
+  "name": "jquery.sticky",
+  "authors": ["Anthony Garand <anthonygarand@gmail.com>"],
+  "description": "jQuery Plugin for Sticky Objects",
+  "main": "jquery.sticky.js",
+  "keywords": [
+    "jquery",
+    "sticky",
+    "navigation",
+    "fixed",
+    "position",
+    "header"
+  ],
+  "license": "MIT",
+  "homepage": "http://stickyjs.com",
+  "ignore": [
+    "**/.*"
+  ],
+  "dependencies": {
+    "jquery": ">=2"
+  }
+}
